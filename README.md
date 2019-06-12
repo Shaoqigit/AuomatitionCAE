@@ -5,3 +5,5 @@ Analytical implementation uses the volkersen model and numercail analysis is stu
 Python script/spyder  
 CATIA v5 6R2018  
 Abaqus v2016  
+# Instruction
+You can replace the performance function (Volkersen model) in script AKMCS_MC_fianl.py according your need
