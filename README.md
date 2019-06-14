@@ -1,7 +1,7 @@
 # Introduction
 This is a project accomplished in the Institut de Mécanique et d'Ingéniere de Bordeaux (I2M) concerning the theorical analysis and numerical calculation of adhesively bonded joints.  
 Analytical implementation uses the volkersen model and numercail analysis is studied in Abaqus with different methods.  
-![xx](https://github.com/Shaoqigit/Automatisation-tool-for-evaluating-of-adhesively-bonded/tree/master/figure/1.png)
+![image](https://github.com/Shaoqigit/Automatisation-tool-for-evaluating-of-adhesively-bonded/tree/master/figure/1.png)
 # Softwares and language used
 Python script/spyder  
 CATIA v5 6R2018  
