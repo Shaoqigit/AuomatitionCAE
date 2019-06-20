@@ -8,5 +8,5 @@ Python script/spyder
 CATIA v5 6R2018  
 Abaqus v2016  
 # Instruction
-The file named stress_analyse is based on the Volkersen model to analyse stress in the cohsive zone. Two python script, one is about using analytical performance fucntion of Volkersen model in evaluation process, while the performace function is computered by abaqus in another script.  
+1. The file named stress_analyse is based on the Volkersen model to analyse stress in the cohsive zone. Two python script, one is about using analytical performance fucntion of Volkersen model in evaluation process, while the performace function is computered by abaqus in another script.  
 
