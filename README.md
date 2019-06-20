@@ -13,5 +13,5 @@ Abaqus v2016
 2. The file named CATIA_with_Python can generate NACA profil series 4 in CATIA with equations coded in Python
 ![image](https://github.com/Shaoqigit/Automatisation-tool-for-evaluating-of-adhesively-bonded/blob/master/CATIA_with_Python/profil_catia.PNG)  
 Another file is to extract all coordiantes in catia saved in Excel
-3. The file named Cohsive_zone_model can analyse adhesivedly bonded joints with <Cohesive Zone Models> in Abaqus.  
+3. The file named Cohsive_zone_model can analyse adhesivedly bonded joints with 'Cohesive Zone Models' in Abaqus.  
   ![image](https://github.com/Shaoqigit/Automatisation-tool-for-evaluating-of-adhesively-bonded/blob/master/Cohsive_zone_model/CZMs.png) 
